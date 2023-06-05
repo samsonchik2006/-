@@ -1,0 +1,16 @@
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+.swiper-slide:nth-child(1) {
+  background-color: rgb(0, 255, 255);
+}
+.swiper-slide:nth-child(2) {
+  background-color: lightpink;
+}
+.swiper-slide:nth-child(3) {
+  background-color: lightgreen;
+}
+img {
+  width: 599px;
+}
